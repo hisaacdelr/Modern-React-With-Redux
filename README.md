@@ -11,4 +11,20 @@ Let's get to it!
 
 # Course Projects
 - [Translation App]()
-- 
+- WIP
+
+# Local Setup
+
+```
+npm -> 9.1.3
+```
+
+
+
+## NPM Packages
+> You can check a list of downloaded npm packages by running `npm list -g --depth 0 `
+- Translation App
+```
+create-react-app -> 5.0.1
+axios -> 1.2.0
+```
