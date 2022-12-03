@@ -10,7 +10,7 @@ I'm a backend developer of 4+ years looking to transition to being a full-stack 
 Let's get to it!
 
 # Course Projects
-- [Translation App]()
+- [Translation App](/translation-app)
 - WIP
 
 # Local Setup
